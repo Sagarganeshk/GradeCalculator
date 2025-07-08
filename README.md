@@ -20,7 +20,7 @@ Perfect for beginners looking to practice input handling, loops, arrays, conditi
 
 ---
 
-## 📷 Screenshot
+## output formed
 
 ```bash
 Enter student name: Rahul
@@ -31,7 +31,7 @@ Enter marks for History (out of 100): 88
 Enter marks for Computer (out of 100): 92
 
 ----- Grade Report -----
-Student: Rahul
+Student: Sagar
 Total Marks: 433 / 500
 Percentage: 86.60%
 Grade: A
